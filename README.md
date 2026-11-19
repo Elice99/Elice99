@@ -25,6 +25,7 @@ I started in geology, where you learn to reason carefully from incomplete eviden
 |---|---|
 | **[customer-churn-retention](https://github.com/Elice99/customer-churn-retention)** | Logistic regression churn model (test ROC-AUC 0.858) served through a FastAPI endpoint, plus the Excel executive dashboard for the same 7,043-customer dataset |
 | **[DataDNA-Challenge](https://github.com/Elice99/DataDNA-Challenge)** | Monthly #DataDNA challenge builds: a validation-first PayPesa wallet-fraud audit (every brief hypothesis formally tested) and Golden Wok delivery intelligence in Power BI |
+| **[zion-finance-data-challenge](https://github.com/Elice99/zion-finance-data-challenge)** | Reproducible Python pipeline and 15-sheet Excel workbook tracing $2.84M of failed fee revenue in East African payment data |
 | **[airbnb-market-intelligence](https://github.com/Elice99/airbnb-market-intelligence)** | Airbnb market analysis with documented statistics and a full Power BI build behind it |
 | **[CRM-Sales-Analytics](https://github.com/Elice99/CRM-Sales-Analytics)** | ML-powered REST API for sales pipeline prediction |
 | **[TrustLake](https://github.com/Elice99/TrustLake)** | Deterministic data validation with AI-assisted explanations |
